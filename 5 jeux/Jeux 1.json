@@ -1,0 +1,65 @@
+{
+  "questions": [
+    {
+      "métier": "Boucherie",
+      "question": "À quel moment de la journée faut-il retirer les produits à DLC courte du rayon ?",
+      "réponses": ["Dès la réception", "Dès le matin", "En fin de journée", "Lors du remplissage suivant"],
+      "bonne réponse": "En fin de journée"
+    },
+    {
+      "métier": "Général",
+      "question": "Un client vous informe d’une allergie aux fruits à coque. Quelle est la meilleure approche ?",
+      "réponses": [
+        "Lui dire de lire l’étiquette",
+        "Vérifier la fiche technique du produit ou lire l’étiquette des ingrédients et informer des traces potentielles",
+        "Lui proposer d’acheter les produits emballés après l’avoir rassuré",
+        "Lui dire que, par précaution, il ne devrait prendre que du BIO"
+      ],
+      "bonne réponse": "Vérifier la fiche technique du produit ou lire l’étiquette des ingrédients et informer des traces potentielles"
+    },
+    {
+      "métier": "poissonnerie",
+      "question": "Dans le rayon marée, pourquoi est-il essentiel de conserver les étiquettes sanitaires après l’agréage et en réserve ?",
+      "réponses": [
+        "Pour le nettoyage du poste",
+        "Pour la traçabilité du produit de l’arrivée à la vente",
+        "Pour le calcul du prix de vente",
+        "Pour contrôler la quantité"
+      ],
+      "bonne réponse": "Pour la traçabilité du produit de l’arrivée à la vente"
+    },
+    {
+      "métier": "Charcuterie - fromagerie",
+      "question": "Quel est l’objectif principal de la cuisson du jambon cuit à 65°C ?",
+      "réponses": [
+        "Assurer la conservation par pasteurisation et la coagulation des protéines",
+        "Accélérer le processus de séchage",
+        "Obtenir une couleur grise naturelle",
+        "Faire fondre le gras pour un produit plus maigre"
+      ],
+      "bonne réponse": "Assurer la conservation par pasteurisation et la coagulation des protéines"
+    },
+    {
+      "métier": "Fruits et légume",
+      "question": "Quelle est la règle de merchandising prioritaire pour l’implantation des fruits secs (Marque De Distributeur - MDD) ?",
+      "réponses": [
+        "Au niveau inférieur (pied du rayon)",
+        "À hauteur des yeux et des mains",
+        "En tête de gondole uniquement",
+        "Mêlangés avec les produits en vrac"
+      ],
+      "bonne réponse": "À hauteur des yeux et des mains"
+    },
+    {
+      "métier": "boulangerie",
+      "question": "Que signifie la mention DLC sur vos affichages en magasin ?",
+      "réponses": [
+        "Pain Industriel pour la Vente",
+        "Préparé Ici Pour Vous",
+        "Production Interne Pain de Ville",
+        "Produit Issu de Pâtes Variables"
+      ],
+      "bonne réponse": "Préparé Ici Pour Vous"
+    }
+  ]
+}

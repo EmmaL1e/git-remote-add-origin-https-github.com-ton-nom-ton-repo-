@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "métier": "boucherie",
+      "question": "Quelles sont les bonnes pratiques essentielles pour valoriser l’offre ou organiser la présentation d’un rayon boucherie traditionnel et libre-service ?",
+      "réponses": [
+        "Mettre en avant clairement les produits de saison (ex : agneau de Pâques) et les pièces phares",
+        "Entasser les barquettes de viande sans distinction de famille",
+        "Assurer la propreté irréprochable et l’entretien régulier du rayon, des vitrines et des balances",
+        "Jouer sur les textures, les couleurs et une segmentation claire des familles de produits"
+      ],
+      "bonnes réponses": [
+        "Mettre en avant clairement les produits de saison (ex : agneau de Pâques) et les pièces phares",
+        "Assurer la propreté irréprochable et l’entretien régulier du rayon, des vitrines et des balances",
+        "Jouer sur les textures, les couleurs et une segmentation claire des familles de produits"
+      ]
+    },
+    {
+      "métier": "général",
+      "question": "Qu’est-ce qu’un 'stock dormant' ?",
+      "réponses": [
+        "Un stock non commandé",
+        "Un stock non rangé",
+        "Un produit qui n’a pas été vendu depuis longtemps",
+        "Un stock en attente de livraison"
+      ],
+      "bonne réponse": "Un produit qui n’a pas été vendu depuis longtemps"
+    },
+    {
+      "métier": "poissonnerie",
+      "question": "Pourquoi est-il important de parler de la pêche durable (MSC/ASC) au client ?",
+      "réponses": [
+        "C’est une obligation légale",
+        "Pour justifier un prix plus élevé",
+        "Pour valoriser l’engagement de l’enseigne et développer la consommation responsable",
+        "Pour mettre en avant une offre diversifiée"
+      ],
+      "bonne réponse": [
+        "Pour valoriser l’engagement de l’enseigne et développer la consommation responsable",
+        "Pour mettre en avant une offre diversifiée"
+      ]
+    },
+    {
+      "métier": "Général",
+      "question": "Comment passe-t-on du CA TTC au CA HT ?",
+      "réponses": [
+        "On divise le CA TTC par le coefficient de TVA",
+        "On soustrait au CA TTC les charges d’exploitation",
+        "On soustrait au CA TTC le coût d’achat de la marchandise vendue"
+      ],
+      "bonne réponse": "On divise le CA TTC par le coefficient de TVA"
+    },
+    {
+      "métier": "Fruits et légume",
+      "question": "Face à des anomalies fréquentes de livraison (produits endommagés, retards répétés), quelles actions une équipe de gestion des stocks F&L doit-elle mener ?",
+      "réponses": [
+        "Documenter systématiquement chaque incident (photos, rapports) et notifier formellement les fournisseurs",
+        "Évaluer l’opportunité de changer de fournisseur ou de renégocier les contrats de service (SLA) avec le management",
+        "Renforcer les contrôles à la réception pour ces fournisseurs spécifiques",
+        "Collaborer avec la logistique centrale pour identifier les causes racines des dysfonctionnements"
+      ],
+      "bonne réponse": [
+        "Documenter systématiquement chaque incident (photos, rapports) et notifier formellement les fournisseurs",
+        "Évaluer l’opportunité de changer de fournisseur ou de renégocier les contrats de service (SLA) avec le management",
+        "Renforcer les contrôles à la réception pour ces fournisseurs spécifiques",
+        "Collaborer avec la logistique centrale pour identifier les causes racines des dysfonctionnements"
+      ]
+    },
+    {
+      "métier": "boulangerie",
+      "question": "Au rayon Boulangerie, il est interdit d’utiliser des œufs :",
+      "réponses": [
+        "Vrai",
+        "Faux"
+      ],
+      "bonne réponse": "Vrai"
+    }
+  ]
+}

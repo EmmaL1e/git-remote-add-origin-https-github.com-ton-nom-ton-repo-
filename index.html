@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz École des Produits Frais - Carrefour</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <div id="app">
+        <div class="bg-shape shape-1"></div>
+        <div class="bg-shape shape-2"></div>
+        <div class="bg-shape shape-3"></div>
+        <div class="bg-shape shape-4"></div>
+
+        <header class="header">
+            <img src="Logo carrefour.png" alt="Logo Carrefour" class="logo-small">
+        </header>
+
+        <main id="main-container">
+            <section id="welcome-screen" class="screen active">
+                <div class="content-wrapper">
+                    <div class="logo-main-container">
+                        <img src="Logopft.png" alt="Logo EPF" class="logo-large">
+                    </div>
+                    <h1 id="main-title">Bienvenue au quiz sur l'<span class="highlight">École des Produits Frais</span>
+                    </h1>
+                    <p class="subtitle">Prêt à relever le défi Carrefour ?</p>
+
+                    <div class="metiers-preview">
+                        <span class="metier-tag">Boucherie</span>
+                        <span class="metier-tag">Charcuterie - Fromagerie</span>
+                        <span class="metier-tag">Fruits & Légumes</span>
+                        <span class="metier-tag">Pâtisserie</span>
+                        <span class="metier-tag">Boulangerie</span>
+                        <span class="metier-tag">Poissonnerie</span>
+                    </div>
+
+                    <div class="actions">
+                        <button id="start-btn" class="btn-primary">Lancer la partie</button>
+                    </div>
+                </div>
+            </section>
+
+            <section id="quiz-screen" class="screen">
+                <div class="content-wrapper quiz-content-wrapper">
+                    <div class="quiz-header">
+                        <div class="quiz-progress-container">
+                            <span id="quiz-progress-text">Jeu 1 • Question 1 sur 6</span>
+                            <div class="quiz-progress-bar-bg">
+                                <div id="quiz-progress-bar-fill" style="width: 0%;"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quiz-body">
+                        <div class="quiz-metier-wrapper">
+                            <span id="quiz-metier" class="metier-tag-large">Boucherie</span>
+                        </div>
+                        <h2 id="quiz-question" class="quiz-question-text">Chargement de la question...</h2>
+
+                        <div id="quiz-answers" class="quiz-answers-grid">
+                            <!-- Les réponses seront insérées dynamiquement -->
+                        </div>
+                    </div>
+
+                    <div class="quiz-actions">
+                        <button id="quiz-action-btn" class="btn-primary">Voir les réponses</button>
+                        <button id="quiz-quit-btn" class="btn-secondary-small">Quitter</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <!-- Version: 1.0.2 - Updated layout for visibility -->
+</body>
+
+</html>
