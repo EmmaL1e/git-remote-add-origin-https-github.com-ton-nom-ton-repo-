@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     "question": "Qu’est-ce qu’un 'stock dormant' ?",
                     "réponses": [
                         "Un stock non commandé",
-                        "Un stock non rangé",
+                        "Un produit mal rangé",
                         "Un produit qui n’a pas été vendu depuis longtemps",
                         "Un stock en attente de livraison"
                     ],
@@ -189,8 +189,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     "question": "Comment passe-t-on du CA TTC au CA HT ?",
                     "réponses": [
                         "On divise le CA TTC par le coefficient de TVA",
-                        "On soustrait au CA TTC les charges d’exploitation",
-                        "On soustrait au CA TTC le coût d’achat de la marchandise vendue"
+                        "On soustrait au CA TTC, les charges d’exploitation",
+                        "On soustrait au CA TTC, le coût d’achat de la marchandise vendue"
                     ],
                     "bonne réponse": "On divise le CA TTC par le coefficient de TVA"
                 },
@@ -236,14 +236,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
                 {
                     "métier": "Général",
-                    "question": "La Marge Brute est l’indicateur fondamental de la performance d’un rayon. Quels éléments sont essentiels pour son calcul précis dans un rayon frais ?",
+                    "question": "La Marge Brute est l’indicateur fondamental de la performance d’un rayon. Quel(s) élément(s) sont / est essentiel(s) pour son calcul précis dans un rayon frais ?",
                     "réponses": [
                         "Le Prix de Vente Hors Taxes (PV HT)",
                         "Le Coût d’Achat Hors Taxes (CA HT) du produit",
                         "Le montant de la Démarque Connue (casse, vols)",
                         "Les Frais de Personnel et les charges fixes du magasin"
                     ],
-                    "bonne réponse": "Le Coût d’Achat Hors Taxes (CA HT) du produit"
+                    "bonne réponse": ["Le Prix de Vente Hors Taxes (PV HT)", "Le Coût d’Achat Hors Taxes (CA HT) du produit","Le montant de la Démarque Connue (casse, vols)"]
                 },
                 {
                     "métier": "poissonnerie",
@@ -310,7 +310,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     "bonne réponse": "Pour prévenir la contamination croisée par égouttement potentiel vers les autres viandes (bœuf/porc), car la volaille est la plus sensible"
                 },
                 {
-                    "métier": "Pâtisserie",
+                    "métier": "Général",
                     "question": "Qu’est-ce que le 'facing' ?",
                     "réponses": [
                         "L’action de faire un inventaire",
@@ -329,7 +329,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         "15 cm",
                         "20 cm"
                     ],
-                    "bonne réponse": "10 cm"
+                    "bonne réponse": "15 cm"
                 },
                 {
                     "métier": "Charcuterie - fromagerie",
