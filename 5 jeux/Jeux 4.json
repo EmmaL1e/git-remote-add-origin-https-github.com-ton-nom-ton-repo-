@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "métier": "boucherie",
+      "question": "Quel est l’ordre correct d’un protocole de nettoyage et de désinfection des outils (couteaux, planches) dans la laboratoire de boucherie ?",
+      "réponses": [
+        "Désinfection - Rinçage - Nettoyage",
+        "Rinçage - Désinfection - Nettoyage",
+        "Nettoyage - Rinçage - Désinfection",
+        "Nettoyage - Désinfection - Rinçage"
+      ],
+      "bonne réponse": "Nettoyage - Rinçage - Désinfection"
+    },
+    {
+      "métier": "Général",
+      "question": "La Marge Brute est l’indicateur fondamental de la performance d’un rayon. Quel(s) élément(s) sont essentiels pour son calcul précis dans un rayon frais ?",
+      "réponses": [
+        "Le Prix de Vente Hors Taxes (PV HT)",
+        "Le Coût d’Achat Hors Taxes (CA HT) du produit",
+        "Le montant de la Démarque Connue (casse, vols)",
+        "Les Frais de Personnel et les charges fixes du magasin"
+      ],
+      "bonne réponse": "Le Coût d’Achat Hors Taxes (CA HT) du produit"
+    },
+    {
+      "métier": "poissonnerie",
+      "question": "Quelle est la conséquence principale d’un mauvais rendement de découpe sur le coût de revient du produit ?",
+      "réponses": [
+        "Le coût de revient diminue",
+        "Le coût de revient augmente",
+        "Le prix de vente diminue",
+        "Le prix de vente reste stable"
+      ],
+      "bonne réponse": "Le coût de revient augmente"
+    },
+    {
+      "métier": "Charcuterie - Fromagerie",
+      "question": "Quelles sont les températures réglementaires de stockage des produits frais (charcuterie, fromage, traiteur) / MCQ ?",
+      "réponses": [
+        "Entre 0°C et +4°C pour les produits ultra-frais (charcuterie, traiteur)",
+        "Entre +8°C et +12°C pour tous les produits",
+        "Entre +2°C et +6°C pour les fromages à pâte molle",
+        "Pas de température spécifique, tant que c’est frais"
+      ],
+      "bonne réponse": [
+        "Entre 0°C et +4°C pour les produits ultra-frais (charcuterie, traiteur)",
+        "Entre +2°C et +6°C pour les fromages à pâte molle"
+      ]
+    },
+    {
+      "métier": "Fruits et légume",
+      "question": "Comment faire mûrir un avocat ?",
+      "réponses": [
+        "Le conserver à température ambiante",
+        "Le conserver au frigo",
+        "L’emballer dans du papier journal",
+        "Le mettre au contact de pommes ou de bananes"
+      ],
+      "bonne réponse": [
+        "Le conserver à température ambiante",
+        "L’emballer dans du papier journal"
+      ]
+    },
+    {
+      "métier": "boulangerie",
+      "question": "Au stand boulangerie, comment appelle-t-on la zone du meuble située à hauteur des yeux et des mains ?",
+      "réponses": [
+        "La zone froide",
+        "La zone chaude",
+        "La zone de stockage",
+        "La zone de sécurité"
+      ],
+      "bonne réponse": "La zone chaude"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "questions": [
+    {
+      "métier": "boucherie",
+      "question": "Pourquoi est-il essentiel de stocker la volaille sur les niveaux inférieurs des étagères de la chambre froide, même si elle est dans des caisses fermées ?",
+      "réponses": [
+        "Pour respecter le poids maximal sur les étagères",
+        "Pour prévenir la contamination croisée par égouttement potentiel vers les autres viandes (bœuf/porc), car la volaille est la plus sensible",
+        "Pour garantir une température plus basse"
+      ],
+      "bonne réponse": "Pour prévenir la contamination croisée par égouttement potentiel vers les autres viandes (bœuf/porc), car la volaille est la plus sensible"
+    },
+    {
+      "métier": "Général",
+      "question": "Qu’est-ce que le 'facing' ?",
+      "réponses": [
+        "L’action de faire un inventaire",
+        "La vérification des dates de péremption",
+        "L’alignement de ses produits en façade pour donner l’impression de plein et de neuf",
+        "L’installation des affiches promotionnelles"
+      ],
+      "bonne réponse": "L’alignement de ses produits en façade pour donner l’impression de plein et de neuf"
+    },
+    {
+      "métier": "poissonnerie",
+      "question": "Quelle est la hauteur minimale recommandée pour le lit de glace sur la banc du rayon traditionnel, avant l’installation des produits ?",
+      "réponses": [
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "bonne réponse": "15 cm"
+    },
+    {
+      "métier": "Charcuterie - fromagerie",
+      "question": "Un client se présente à votre stand Charcuterie. Il est très mécontent car le jambon blanc à la coupe qu’il a acheté hier était facturé à 15,90 €/kg, mais sur son ticket de caisse, il a été facturé à un prix du système informatique, soit 19,90 €/kg. Que devez-vous faire ?",
+      "réponses": [
+        "Lui dire de se rendre directement à l’Accueil du magasin avec son ticket pour se faire rembourser la différence",
+        "Vous excuser, reprendre le jambon, le peser à nouveau et lui refaire une étiquette manuelle au bon prix pour qu’il repasse en caisse",
+        "Appliquer immédiatement le prix affiché en rayon (le plus avantageux pour le client), calculer la différence sur la quantité achetée, et lui rembourser la différence en bon d’achat"
+      ],
+      "bonne réponse": "Appliquer immédiatement le prix affiché en rayon (le plus avantageux pour le client), calculer la différence sur la quantité achetée, et lui rembourser la différence en bon d’achat"
+    },
+    {
+      "métier": "Fruits et légume",
+      "question": "Le choix des F&L de saison est un pilier d’Act for Food. Quels en sont les bénéfices en termes d’impact environnemental et de coût ?",
+      "réponses": [
+        "Ils sont plus faciles à stocker à long terme",
+        "Ils réduisent l’empreinte carbone liée au transport et au stockage (moins d’énergie)",
+        "Ils sont plus résistants aux maladies",
+        "Ils permettent de proposer un produit de meilleure qualité à un prix plus juste"
+      ],
+      "bonne réponse": [
+        "Ils réduisent l’empreinte carbone liée au transport et au stockage (moins d’énergie)",
+        "Ils permettent de proposer un produit de meilleure qualité à un prix plus juste"
+      ]
+    },
+    {
+      "métier": "boulangerie",
+      "question": "Quelles sont les règles de sécurité pour le nettoyage du four ?",
+      "réponses": [
+        "Attendre le refroidissement complet du four",
+        "Utiliser de l’eau froide sur les briques chaudes",
+        "Utiliser des brosses à long manche adaptées",
+        "Porter des équipements de protection individuelle (EPI)"
+      ],
+      "bonne réponse": [
+        "Attendre le refroidissement complet du four",
+        "Utiliser des brosses à long manche adaptées",
+        "Porter des équipements de protection individuelle (EPI)"
+      ]
+    }
+  ]
+}

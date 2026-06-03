@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "métier": "Général",
+      "question": "Le calcul du chiffre d’affaires au mètre carré développé sert à prendre des décisions concernant :",
+      "réponses": [
+        "La réduction ou l’augmentation de l’espace alloué à une famille de produits",
+        "L’identification des familles de produits les plus rentables par unité d’espace",
+        "La couleur des étagères du rayon",
+        "La détermination du nombre d’employés nécessaires en caisse"
+      ],
+      "bonnes réponses": [
+        "L’identification des familles de produits les plus rentables par unité d’espace",
+        "La réduction ou l’augmentation de l’espace alloué à une famille de produits"
+      ]
+    },
+    {
+      "métier": "pâtisserie",
+      "question": "Pourquoi est-il déconseillé de mettre le sel en contact direct avec la levure fraîche ?",
+      "réponses": [
+        "Pour éviter une surchauffe",
+        "Pour rendre la pâte plus molle",
+        "Le sel peut déshydrater la levure et stopper la fermentation",
+        "Pour améliorer le goût"
+      ],
+      "bonne réponse": "Le sel peut déshydrater la levure et stopper la fermentation"
+    },
+    {
+      "métier": "poissonnerie",
+      "question": "Quel est l’élément qui doit déclencher en priorité une alerte sur la qualité du produit auprès du client ?",
+      "réponses": [
+        "Le prix du produit est trop bas",
+        "Le poisson ne possède pas de logo MSC/ASC",
+        "Les yeux du poisson sont vitreux et les ouïes grisâtres",
+        "La couleur du balisage est incorrecte"
+      ],
+      "bonne réponse": "Les yeux du poisson sont vitreux et les ouïes grisâtres"
+    },
+    {
+      "métier": "Général",
+      "question": "Vous constatez une différence entre le stock théorique affiché sur votre outil informatique (PDA) et le stock physique en réserve. Quelle est la première action à mener ?",
+      "réponses": [
+        "Corriger l’outil informatique immédiatement",
+        "Attendre le signalement d’une rupture de stock",
+        "Laisser la différence jusqu’à l’inventaire",
+        "Identifier la source de l’anomalie et alerter votre responsable"
+      ],
+      "bonne réponse": "Identifier la source de l’anomalie et alerter votre responsable"
+    },
+    {
+      "métier": "fruits et légume",
+      "question": "Quelle est la plage de température optimale à respecter absolument pour les produits de 4e (coupés) et de 5e gamme (cuits, prêts à l’emploi) ?",
+      "réponses": [
+        "De 0 à +2 °C",
+        "De +1 à +4 °C",
+        "De +2 a +8 °C"
+      ],
+      "bonne réponse": "De +1 à +4 °C"
+    },
+    {
+      "métier": "boulangerie",
+      "question": "Quels comportements favorisent la fidélisation des clients en Boulangerie ?",
+      "réponses": [
+        "La régularité de la cuisson",
+        "Parler fort avec ses collègues",
+        "La propreté de la tenue professionnelle",
+        "Le conseil personnalisé sur les pains"
+      ],
+      "bonnes réponses": [
+        "La régularité de la cuisson",
+        "La propreté de la tenue professionnelle",
+        "Le conseil personnalisé sur les pains"
+      ]
+    }
+  ]
+}
