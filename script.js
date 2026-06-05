@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     "bonne réponse": "Assurer la conservation par pasteurisation et la coagulation des protéines"
                 },
                 {
-                    "métier": "Fruits et légume",
+                    "métier": "Fruits et légumes",
                     "question": "Quelle est la règle de merchandising prioritaire pour l’implantation des fruits secs (Marque De Distributeur - MDD) ?",
                     "réponses": [
                         "Au niveau inférieur (pied du rayon)",
@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     "bonne réponse": "Identifier la source de l’anomalie et alerter votre responsable"
                 },
                 {
-                    "métier": "fruits et légume",
+                    "métier": "fruits et légumes",
                     "question": "Quelle est la plage de température optimale à respecter absolument pour les produits de 4e (coupés) et de 5e gamme (cuits, prêts à l’emploi) ?",
                     "réponses": [
                         "De 0 à +2 °C",
@@ -195,7 +195,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     "bonne réponse": "On divise le CA TTC par le coefficient de TVA"
                 },
                 {
-                    "métier": "Fruits et légume",
+                    "métier": "Fruits et légumes",
                     "question": "Face à des anomalies fréquentes de livraison (produits endommagés, retards répétés), quelles actions une équipe de gestion des stocks F&L doit-elle mener ?",
                     "réponses": [
                         "Documenter systématiquement chaque incident (photos, rapports) et notifier formellement les fournisseurs",
@@ -271,7 +271,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     ]
                 },
                 {
-                    "métier": "Fruits et légume",
+                    "métier": "Fruits et légumes",
                     "question": "Comment faire mûrir un avocat ?",
                     "réponses": [
                         "Le conserver à température ambiante",
@@ -342,7 +342,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     "bonne réponse": "Appliquer immédiatement le prix affiché en rayon (le plus avantageux pour le client), calculer la différence sur la quantité achetée, et lui rembourser la différence en bon d’achat"
                 },
                 {
-                    "métier": "Fruits et légume",
+                    "métier": "Fruits et légumes",
                     "question": "Le choix des F&L de saison est un pilier d’Act for Food. Quels en sont les bénéfices en termes d’impact environnemental et de coût ?",
                     "réponses": [
                         "Ils sont plus faciles à stocker à long terme",
